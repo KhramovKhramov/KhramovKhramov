@@ -8,5 +8,5 @@
 - 📫 How to reach me: [@khramovkhramov](https://t.me/khramovkhramov) on Telegram, paul.khramov@gmail.com
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhramovKhramov&repo=chat_join_request_bot)](https://github.com/KhramovKhramov/chat_join_request_bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/KhramovKhramov/mitkin_phrase_bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhramovKhramov&repo=mitkin_phrase_bot)](https://github.com/KhramovKhramov/mitkin_phrase_bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/KhramovKhramov/cats_memes_bot)

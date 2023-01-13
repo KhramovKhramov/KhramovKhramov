@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning Python, html/css, backend, web
 - 📫 How to reach me: [@khramovkhramov](https://t.me/khramovkhramov) on Telegram, paul.khramov@gmail.com
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khramovkhramov&repo=chat_join_request_bot)](https://github.com/KhramovKhramov/chat_join_request_bot)
+[![codewars](https://www.codewars.com/users/half-blood_coder/badges/large)](https://www.codewars.com/users/half-blood_coder)   

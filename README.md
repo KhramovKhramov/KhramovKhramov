@@ -7,4 +7,8 @@
 - 🌱 I’m currently learning Python, html/css, backend, web
 - 📫 How to reach me: [@khramovkhramov](https://t.me/khramovkhramov) on Telegram, paul.khramov@gmail.com
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhramovKhramov&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhramovKhramov&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhramovKhramov&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhramovKhramov&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhramovKhramov&theme=github_dark&utcOffset=8)
+
 [![codewars](https://www.codewars.com/users/half-blood_coder/badges/large)](https://www.codewars.com/users/half-blood_coder)   
